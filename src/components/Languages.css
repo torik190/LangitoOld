@@ -1,0 +1,13 @@
+.Language {
+    color: black;
+    text-decoration: none;
+}
+
+#Classes, .Class {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.Class {
+    color: black;
+}

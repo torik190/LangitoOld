@@ -1,12 +1,12 @@
 import './Home.css';
-import img1 from './images/home1.gif';
-import img2 from './images/home2.gif';
-import img3 from './images/home3.gif';
-import img4 from './images/home4.gif';
+import img1 from '../images/home1.gif';
+import img2 from '../images/home2.gif';
+import img3 from '../images/home3.gif';
+import img4 from '../images/home4.gif';
 
 export default function Home() {
   return (
-    <div id='Home'>
+    <div id='Side'>
       <table>
         <tr>
           <td className='HomeText'>
